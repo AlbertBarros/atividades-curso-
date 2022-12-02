@@ -1,0 +1,5 @@
+def reverso(n):
+    inverte = str(n)
+    print(inverte[::-1])
+x = input('digite um numero: ')
+(reverso(x))

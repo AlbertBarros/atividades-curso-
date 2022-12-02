@@ -1,0 +1,8 @@
+def potencia(base,expoente):
+    resultado = 1
+    for numero in range(1,expoente+1):
+        resultado = resultado * base
+    return resultado
+a = int(input('Digite o valor da Base: '))
+b = int(input('Digite o valor do exponte: '))
+print(potencia(a,b))

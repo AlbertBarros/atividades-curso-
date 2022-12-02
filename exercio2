@@ -1,0 +1,7 @@
+'''Faça uma função que informe a quantidade de dígitos de um
+determinado número inteiro informado.'''
+def digitos(n):
+    s = str(n)
+    return len(s)
+x =  input ('Digite um numermo: ?')
+print(digitos(x))
