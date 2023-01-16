@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T14:03:25.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EaO-wiigsdeLu1ScBY2B" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T14:11:20.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4Qrg4CY7O51Xohwhr4ko" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="FExomoxg9fPovwhunpPv-3" value="CPF:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FExomoxg9fPovwhunpPv-0" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FExomoxg9fPovwhunpPv-4" value="RG:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FExomoxg9fPovwhunpPv-0" vertex="1">
+        <mxCell id="FExomoxg9fPovwhunpPv-4" value="CARGO:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FExomoxg9fPovwhunpPv-0" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FExomoxg9fPovwhunpPv-19" value="ENDEREÇO:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FExomoxg9fPovwhunpPv-0" vertex="1">
@@ -81,8 +81,11 @@
         <mxCell id="FExomoxg9fPovwhunpPv-31" value="FUNÇÃO DO FUNCIONARIO:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FExomoxg9fPovwhunpPv-28" vertex="1">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FExomoxg9fPovwhunpPv-32" value="END. CLIENTE:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FExomoxg9fPovwhunpPv-28" vertex="1">
+        <mxCell id="FExomoxg9fPovwhunpPv-32" value="QTD DE FUNCIONARIO:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FExomoxg9fPovwhunpPv-28" vertex="1">
           <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-GPdNPXKnmB-QAy5J1du-0" value="SALARIO FUNCIONÁRIO:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FExomoxg9fPovwhunpPv-28">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
